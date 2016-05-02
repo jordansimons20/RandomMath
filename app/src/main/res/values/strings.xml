@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Random Math</string>
+    <string name="please">Please Answer Questions:</string>
+    <string name="plusView">0 + 0 = </string>
+    <string name="minusView">0 - 0 =</string>
+    <string name="timesView">0 * 0 =</string>
+    <string name="pluseditText" />
+    <string name="minuseditText" />
+    <string name="timeseditText" />
+    <string name="submitbutton">Submit Answers</string>
+    <string name="resetbutton">Reset Questions</string>
+    <string name="numbercorrectView" />
+</resources>
